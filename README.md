@@ -1,4 +1,3 @@
-![poster](actrims_poster.png)
 # Inconsistent MR Acquisition in Longitudinal Volumetric Analysis: Impacts and Solutions | [Abstract](https://cmsc.confex.com/cmsc/2023/meetingapp.cgi/Paper/8967)
 
 - Publications:
@@ -41,3 +40,5 @@ and Graphics, 2023.*](https://www.sciencedirect.com/science/article/pii/S0895611
 - Contact: [Lianrui Zuo](lr_zuo@jhu.edu) *Department of Electrical and Computer Engineering, The Johns Hopkins University*
 
 - Learn more about our advanced harmonization technique HACA3: [project page](https://github.com/lianruizuo/haca3)
+
+- Poster: ![poster](actrims_poster.png)
