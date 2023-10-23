@@ -1,6 +1,8 @@
 ![poster](actrims_poster.png)
 # Inconsistent MR Acquisition in Longitudinal Volumetric Analysis: Impacts and Solutions | [Abstract](https://cmsc.confex.com/cmsc/2023/meetingapp.cgi/Paper/8967)
 
+- Conference abstract: [Zuo et al. Inconsistent MR Acquisition in Longitudinal Volumetric Analysis: Impacts and Solutions](https://cmsc.confex.com/cmsc/2023/meetingapp.cgi/Paper/8967)
+
 - Citation:
     ```bibtex
       @article{Zuo_CMSC2023,
@@ -14,6 +16,9 @@
                 Jerry L. Prince and Ellen M. Mowry and Scott D. Newsome}
       }
     ```
+    
+- Oral presentation on [YouTube]((https://www.youtube.com/watch?v=TpdB55wxgs4&t=2s))
+
 - Contact: [Lianrui Zuo](lr_zuo@jhu.edu) *Department of Electrical and Computer Engineering, The Johns Hopkins University*
 
-- Learn more about our harmonization technique HACA3: [project page](https://github.com/lianruizuo/haca3)
+- Learn more about our advanced harmonization technique HACA3: [project page](https://github.com/lianruizuo/haca3)
