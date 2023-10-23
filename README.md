@@ -36,7 +36,7 @@ and Graphics, 2023.*](https://www.sciencedirect.com/science/article/pii/S0895611
     }
     ```
     
-- Oral presentation on [YouTube]((https://www.youtube.com/watch?v=TpdB55wxgs4&t=2s))
+- Oral presentation on [YouTube](https://www.youtube.com/watch?v=TpdB55wxgs4&t=2s)
 
 - Contact: [Lianrui Zuo](lr_zuo@jhu.edu) *Department of Electrical and Computer Engineering, The Johns Hopkins University*
 
