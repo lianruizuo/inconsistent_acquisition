@@ -1,7 +1,10 @@
 ![poster](actrims_poster.png)
 # Inconsistent MR Acquisition in Longitudinal Volumetric Analysis: Impacts and Solutions | [Abstract](https://cmsc.confex.com/cmsc/2023/meetingapp.cgi/Paper/8967)
 
-- Conference abstract: [Zuo et al. Inconsistent MR Acquisition in Longitudinal Volumetric Analysis: Impacts and Solutions](https://cmsc.confex.com/cmsc/2023/meetingapp.cgi/Paper/8967)
+- Publications:
+    - [Zuo et al. Inconsistent MR Acquisition in Longitudinal Volumetric Analysis: Impacts and Solutions. *Consortium of Multiple Sclerosis Centers Annual Meeting, 2023*](https://cmsc.confex.com/cmsc/2023/meetingapp.cgi/Paper/8967)
+    - [Zuo et al. HACA3: A unified approach for multi-site MR image harmonization. *Computerized Medical Imaging 
+and Graphics, 2023.*](https://www.sciencedirect.com/science/article/pii/S0895611123001039)
 
 - Citation:
     ```bibtex
