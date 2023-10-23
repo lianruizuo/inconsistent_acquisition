@@ -37,8 +37,12 @@ and Graphics, 2023.*](https://www.sciencedirect.com/science/article/pii/S0895611
     
 - Oral presentation on [YouTube](https://www.youtube.com/watch?v=TpdB55wxgs4&t=2s)
 
-- Contact:  Lianrui Zuo email: lr_zuo@jhu.edu *Department of Electrical and Computer Engineering, The Johns Hopkins University*
-
-- Learn more about our advanced harmonization technique HACA3: [project page](https://github.com/lianruizuo/haca3)
-
 - Poster: ![poster](actrims_poster.png)
+
+- Learn more about our harmonization approach HACA3: [project page](https://github.com/lianruizuo/haca3)
+
+- Contact me: lr_zuo@jhu.edu   Lianrui Zuo, *Department of Electrical and Computer Engineering, The Johns Hopkins University*
+
+
+
+
