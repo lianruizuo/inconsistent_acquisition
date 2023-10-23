@@ -14,6 +14,6 @@
                 Jerry L. Prince and Ellen M. Mowry and Scott D. Newsome}
       }
     ```
-- Contact: [Lianrui Zuo](lr_zuo@jhu.edu) Johns Hopkins University
+- Contact: [Lianrui Zuo](lr_zuo@jhu.edu) *Department of Electrical and Computer Engineering, The Johns Hopkins University*
 
 - Learn more about our harmonization technique HACA3: [project page](https://github.com/lianruizuo/haca3)
