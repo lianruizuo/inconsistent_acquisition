@@ -1,3 +1,4 @@
+![poster](actrims_poster.png)
 # Inconsistent MR Acquisition in Longitudinal Volumetric Analysis: Impacts and Solutions | [Abstract](https://cmsc.confex.com/cmsc/2023/meetingapp.cgi/Paper/8967)
 
 - Citation:
@@ -13,3 +14,6 @@
                 Jerry L. Prince and Ellen M. Mowry and Scott D. Newsome}
       }
     ```
+- Contact: [Lianrui Zuo](lr_zuo@jhu.edu) Johns Hopkins University
+
+- Learn more about our harmonization technique HACA3: [project page](https://github.com/lianruizuo/haca3)
