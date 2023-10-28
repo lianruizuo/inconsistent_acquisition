@@ -1,4 +1,4 @@
-# Inconsistent MR Acquisition in Longitudinal Volumetric Analysis: Impacts and Solutions | [Abstract](https://cmsc.confex.com/cmsc/2023/meetingapp.cgi/Paper/8967) [Journal](https://www.sciencedirect.com/science/article/pii/S0895611123001039)
+# Inconsistent MR Acquisition in Longitudinal Volumetric Analysis: Impacts and Solutions | [Abstract](https://cmsc.confex.com/cmsc/2023/meetingapp.cgi/Paper/8967) | [Journal](https://www.sciencedirect.com/science/article/pii/S0895611123001039)
 
 - Publications:
     - [Zuo et al. Inconsistent MR Acquisition in Longitudinal Volumetric Analysis: Impacts and Solutions. *Consortium of Multiple Sclerosis Centers Annual Meeting, 2023.*](https://cmsc.confex.com/cmsc/2023/meetingapp.cgi/Paper/8967)
