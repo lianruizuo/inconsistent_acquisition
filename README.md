@@ -1,4 +1,4 @@
-# Inconsistent MR Acquisition in Longitudinal Volumetric Analysis: Impacts and Solutions | [Abstract](https://cmsc.confex.com/cmsc/2023/meetingapp.cgi/Paper/8967)
+# Inconsistent MR Acquisition in Longitudinal Volumetric Analysis: Impacts and Solutions | [Abstract](https://cmsc.confex.com/cmsc/2023/meetingapp.cgi/Paper/8967) [Journal](https://www.sciencedirect.com/science/article/pii/S0895611123001039)
 
 - Publications:
     - [Zuo et al. Inconsistent MR Acquisition in Longitudinal Volumetric Analysis: Impacts and Solutions. *Consortium of Multiple Sclerosis Centers Annual Meeting, 2023.*](https://cmsc.confex.com/cmsc/2023/meetingapp.cgi/Paper/8967)
@@ -42,7 +42,7 @@ and Graphics, 2023.*](https://www.sciencedirect.com/science/article/pii/S0895611
 
 - Learn more about our harmonization approach HACA3: [project page](https://github.com/lianruizuo/haca3)
 
-- Contact me: lr_zuo@jhu.edu   Lianrui Zuo, *Department of Electrical and Computer Engineering, The Johns Hopkins University*
+- Contact me: Lianrui Zuo (email: [lr_zuo@jhu.edu](mailto:lr_zuo@jhu.edu)), *Department of Electrical and Computer Engineering, Johns Hopkins University*
 
 
 
