@@ -1,5 +1,8 @@
-# Inconsistent MR Acquisition in Longitudinal Volumetric Analysis: Impacts and Solutions | [Abstract](https://cmsc.confex.com/cmsc/2023/meetingapp.cgi/Paper/8967) | [Journal](https://www.sciencedirect.com/science/article/pii/S0895611123001039)
+# Inconsistent MR Acquisition in Longitudinal Volumetric Analysis for people with MS: Impacts and Solutions | [Abstract](https://cmsc.confex.com/cmsc/2023/meetingapp.cgi/Paper/8967) | [Journal](https://www.sciencedirect.com/science/article/pii/S0895611123001039)
 
+Magnetic resonance imaging (MRI) is a powerful and flexible imaging technique in studing multiple sclerosis (MS). However, the flexibility of MRI often comes at a cost: ***lack of standardization and consistency across imaging studies***. Despite the guidelines provided by the MAGNIMS–CMSC–NAIMS, there are still significant variations of MR acquisition in research and clincal settings. The variablity in MR acquisition poses challenges for consistent and accurate study of MS. 
+
+In our study, we investigate the impact of inconsistent MR acquisition in longitudinal volumetric analysis. We found that inconsistent acquisition has a strong negative impact on the consistency and statistical power of longitudinal analysis, thus hinders our understanding of MS. We then investigate MR harmoniation as a potential solution to mitigate this issue. Our study suggests that image harmonization effectively alleviates this negative impact, yielding nearly identical consistency as that in standardized and consistent acquisitions.
 - Publications:
     - [Zuo et al. Inconsistent MR Acquisition in Longitudinal Volumetric Analysis: Impacts and Solutions. *Consortium of Multiple Sclerosis Centers Annual Meeting, 2023.*](https://cmsc.confex.com/cmsc/2023/meetingapp.cgi/Paper/8967)
     - [Zuo et al. HACA3: A unified approach for multi-site MR image harmonization. *Computerized Medical Imaging 
