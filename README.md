@@ -36,17 +36,17 @@ and Graphics, 2023.*](https://www.sciencedirect.com/science/article/pii/S0895611
     }
     ```
 
+- Contact me: Lianrui Zuo (email: [lr_zuo@jhu.edu](mailto:lr_zuo@jhu.edu)), *Department of Electrical and Computer Engineering, Johns Hopkins University*
+
 - Learn more about our harmonization approach HACA3: [project page](https://github.com/lianruizuo/haca3)
 
-- Media coverages of this work:
+- Media coverage of this work:
     - [NeurologyLive](https://www.neurologylive.com/conferences/cmsc)
     - [Video Journal of Neurology](https://vjneurology.com/speaker/lianrui-zuo/)
     
 - Oral presentation on [YouTube](https://www.youtube.com/watch?v=TpdB55wxgs4&t=2s)
 
 - Poster: ![poster](actrims_poster.png)
-
-- Contact me: Lianrui Zuo (email: [lr_zuo@jhu.edu](mailto:lr_zuo@jhu.edu)), *Department of Electrical and Computer Engineering, Johns Hopkins University*
 
 
 
